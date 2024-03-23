@@ -1,0 +1,7 @@
+C:\Users\User\Masaüstü\CodeAcademy\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\User\Masaüstü\CodeAcademy\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\User\Masaüstü\CodeAcademy\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\User\Masaüstü\CodeAcademy\MiniProject\obj\Debug\MiniProject.csproj.AssemblyReference.cache
+C:\Users\User\Masaüstü\CodeAcademy\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaüstü\CodeAcademy\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\User\Masaüstü\CodeAcademy\MiniProject\obj\Debug\MiniProject.pdb
